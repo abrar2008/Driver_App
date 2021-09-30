@@ -1,0 +1,574 @@
+{
+  "project_info": {
+    "project_number": "201013924709",
+    "project_id": "travelapp-2ba77",
+    "storage_bucket": "travelapp-2ba77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:189faf692723449c67478c",
+        "android_client_info": {
+          "package_name": "biz.efendim.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-177avvfi49ie55345g2a9an66st5pl15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "793b011d287c8c4b8914f214934f20735ec55652"
+          }
+        },
+        {
+          "client_id": "201013924709-4ic5evies13cno6of6c06oucc1pojcbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "881716623396d7fe1cf6c9e1aaf2be4f75d38ad1"
+          }
+        },
+        {
+          "client_id": "201013924709-65h27gb58fdm1chjv7vcffrse121rajo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "acfe0f0f353a4419aa03b124968887d749316459"
+          }
+        },
+        {
+          "client_id": "201013924709-80gs3h398fkjackpvi3rl6ediav18ph0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "d1c55c5ba1a957ae214f1d2b3b883b258887f1aa"
+          }
+        },
+        {
+          "client_id": "201013924709-8kvv107gsq5ihha7lrl722fo5u52sk5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "d948a77b40981b9fd8ff07cb6b79363c6fc267e6"
+          }
+        },
+        {
+          "client_id": "201013924709-dathlv0vmousot191scb0ftu026ehe89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "fca6d7894477142404a251f2cf6f3373442d3561"
+          }
+        },
+        {
+          "client_id": "201013924709-f951p5ej5im6bdr4j8lb0fg10qbif68t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "14c0a904841beee46e629e1e5498fdac7364caf3"
+          }
+        },
+        {
+          "client_id": "201013924709-hn2s9bjt9tqtnnkf4812vsdqictcgcap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "bd798a8df77fd36acf201b790bd58b32dc6b475a"
+          }
+        },
+        {
+          "client_id": "201013924709-ltp07kjuiqq7kcajdgspiclf9ohgi71p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "66c908311b669aaa7b9366930978c31ecffec4e6"
+          }
+        },
+        {
+          "client_id": "201013924709-mavbcojj48bmcvldunj8nj50ne5iq4kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "6db2d98d48948a14fb7edba935bcd0460dbf65ab"
+          }
+        },
+        {
+          "client_id": "201013924709-pdtartdkbvjrtutquripv466rdhiaiq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "9bf7c658a80051f11c8c12b6a0db9788a479d424"
+          }
+        },
+        {
+          "client_id": "201013924709-q5h8sv565s7s54uj4kprvuvbcng63s98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "d7c247923ec4b083c93277be36d384c74d75b67c"
+          }
+        },
+        {
+          "client_id": "201013924709-utqvo8mk7cpdifvorgc2pk07e1hkvda5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.customer",
+            "certificate_hash": "765e8748a7f77aa48439885ee095381a9127e95c"
+          }
+        },
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-7s9b6rp4349u27m8i0v9s37rb8ep9f3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.efendimuser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:dea761a21f3c8aa667478c",
+        "android_client_info": {
+          "package_name": "biz.efendim.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-2e9j3qt4gik0hm5dseia3evlmj17nlul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.driver",
+            "certificate_hash": "765e8748a7f77aa48439885ee095381a9127e95c"
+          }
+        },
+        {
+          "client_id": "201013924709-5nnl4diks060gfuggiui4rm0prq6c9oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.driver",
+            "certificate_hash": "acfe0f0f353a4419aa03b124968887d749316459"
+          }
+        },
+        {
+          "client_id": "201013924709-93sthtaft6be3q1c5v26lisad6ltjggr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.driver",
+            "certificate_hash": "66c908311b669aaa7b9366930978c31ecffec4e6"
+          }
+        },
+        {
+          "client_id": "201013924709-clshp6195e325ki33i0777g61goq6dbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.driver",
+            "certificate_hash": "bd798a8df77fd36acf201b790bd58b32dc6b475a"
+          }
+        },
+        {
+          "client_id": "201013924709-g4oh7tlfjmj553smq18a41oraq98v8th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.driver",
+            "certificate_hash": "2a4dc82abd65cde2417dcca32d33c6fc2949a7b3"
+          }
+        },
+        {
+          "client_id": "201013924709-nim0arflbgdem3d2f665ur70k6dj5c5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.driver",
+            "certificate_hash": "d1c55c5ba1a957ae214f1d2b3b883b258887f1aa"
+          }
+        },
+        {
+          "client_id": "201013924709-qkvoiif3lj7m460m2hj00t1dkasetjtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.driver",
+            "certificate_hash": "fca6d7894477142404a251f2cf6f3373442d3561"
+          }
+        },
+        {
+          "client_id": "201013924709-v5upfsnnijcmpef2hsonb8bik3kuni08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.driver",
+            "certificate_hash": "d7c247923ec4b083c93277be36d384c74d75b67c"
+          }
+        },
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-7s9b6rp4349u27m8i0v9s37rb8ep9f3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.efendimuser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:c31be6e537041d7167478c",
+        "android_client_info": {
+          "package_name": "biz.efendim.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-barn2u0f2n9l56oqjmed23gnqud0qbkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.merchant",
+            "certificate_hash": "67f7d4ed5f65de9ae90127263349efa008658ce7"
+          }
+        },
+        {
+          "client_id": "201013924709-e2d60j87j5k2jp7vhsc2r8duq3tcsia0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.merchant",
+            "certificate_hash": "d1c55c5ba1a957ae214f1d2b3b883b258887f1aa"
+          }
+        },
+        {
+          "client_id": "201013924709-o1kr6mv8kk2qbssjmvm97i2c2qmi7fu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.merchant",
+            "certificate_hash": "fca6d7894477142404a251f2cf6f3373442d3561"
+          }
+        },
+        {
+          "client_id": "201013924709-ogp8uhib0qqavpre0n03vdlu1a7rgl3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.merchant",
+            "certificate_hash": "d948a77b40981b9fd8ff07cb6b79363c6fc267e6"
+          }
+        },
+        {
+          "client_id": "201013924709-p5to1k3orbut7bdcvmca72sk9q4gdhnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.merchant",
+            "certificate_hash": "14c0a904841beee46e629e1e5498fdac7364caf3"
+          }
+        },
+        {
+          "client_id": "201013924709-pd8e1hem9k44pekfsua71k32tcn4l283.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.efendim.merchant",
+            "certificate_hash": "765e8748a7f77aa48439885ee095381a9127e95c"
+          }
+        },
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-7s9b6rp4349u27m8i0v9s37rb8ep9f3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.efendimuser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:7be06327f7cff13767478c",
+        "android_client_info": {
+          "package_name": "com.admin.afandim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-7s9b6rp4349u27m8i0v9s37rb8ep9f3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.efendimuser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:eeeae893d307409567478c",
+        "android_client_info": {
+          "package_name": "com.efendim.efendim_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-7s9b6rp4349u27m8i0v9s37rb8ep9f3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.efendimuser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:5579d9deeed6ef8967478c",
+        "android_client_info": {
+          "package_name": "com.elgindy.ecommerceApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-7s9b6rp4349u27m8i0v9s37rb8ep9f3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.efendimuser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:eca805f36509d39e67478c",
+        "android_client_info": {
+          "package_name": "net.afandim.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-7s9b6rp4349u27m8i0v9s37rb8ep9f3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.efendimuser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:011592892e93718967478c",
+        "android_client_info": {
+          "package_name": "net.afandim.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-emupk9jpheqrpvj3jfnhru3alrid3heg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.afandim.driverapp",
+            "certificate_hash": "fca6d7894477142404a251f2cf6f3373442d3561"
+          }
+        },
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-7s9b6rp4349u27m8i0v9s37rb8ep9f3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.efendimuser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201013924709:android:095953abe4ae4a0467478c",
+        "android_client_info": {
+          "package_name": "net.afandim.peoviderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201013924709-0063h94f75n3hr65jmnag74v8s9fdvk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.afandim.peoviderapp",
+            "certificate_hash": "d1c55c5ba1a957ae214f1d2b3b883b258887f1aa"
+          }
+        },
+        {
+          "client_id": "201013924709-jah9o8vro7eh0rqbl02ik7re4a2kongk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.afandim.peoviderapp",
+            "certificate_hash": "765e8748a7f77aa48439885ee095381a9127e95c"
+          }
+        },
+        {
+          "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQShcjlymL-lN9CE-GzirNRxzT_McEUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201013924709-bd14mkrvj9e4fob9g1gdtos44h3hbag3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201013924709-7s9b6rp4349u27m8i0v9s37rb8ep9f3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.efendimuser.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
